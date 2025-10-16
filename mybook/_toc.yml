@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Tasks/labtask1
+- file: Tasks/labtask2
+- file: Tasks/labtask3
+- file: Tasks/labtask4
+- file: Tasks/labtask5
+- file: Tasks/labtask6
+
