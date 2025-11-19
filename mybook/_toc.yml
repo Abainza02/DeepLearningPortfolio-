@@ -3,11 +3,15 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: Tasks/labtask1
-- file: Tasks/labtask2
-- file: Tasks/labtask3
-- file: Tasks/labtask4
-- file: Tasks/labtask5
-- file: Tasks/labtask6
-
+parts:
+- caption: Blog Post
+  chapters:
+    - file: Blog/BlogPost
+- caption: Laboratories
+  chapters:
+    - file: Tasks/labtask1
+    - file: Tasks/labtask2
+    - file: Tasks/labtask3
+    - file: Tasks/labtask4
+    - file: Tasks/labtask5
+    - file: Tasks/labtask6
